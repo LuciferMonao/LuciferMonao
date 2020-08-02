@@ -1,4 +1,4 @@
-### Hello, Im Lucifer Monao and a motivated german student. [website] 👋
+### Hello, Im Lucifer Monao and a motivated german student. 👋
 
 ## Im curently going to school in germany. My projects include:
 - a website for my orchestra. (private)
