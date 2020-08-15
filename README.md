@@ -35,4 +35,4 @@ My discord name is luZIVer#9093
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferMonao)](https://github.com/anuraghazra/github-readme-stats)
 
 [mail]: mailto:lucifermonao@gmx.de
-[discord]: discord.com
+[discord]: www.discord.com
